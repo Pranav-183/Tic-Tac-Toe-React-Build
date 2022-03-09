@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tic-Tac-Toe-React/static/css/main.57c257f0.css",
-    "main.js": "/Tic-Tac-Toe-React/static/js/main.1d3dd0c7.js",
+    "main.js": "/Tic-Tac-Toe-React/static/js/main.92ae0cca.js",
     "static/media/material-icons-two-tone.woff": "/Tic-Tac-Toe-React/static/media/material-icons-two-tone.169d9845612b754f6086.woff",
     "static/media/material-icons-two-tone.woff2": "/Tic-Tac-Toe-React/static/media/material-icons-two-tone.20196d7544af60588088.woff2",
     "static/media/material-icons-round.woff": "/Tic-Tac-Toe-React/static/media/material-icons-round.da8b129efeb630b26ed6.woff",
@@ -12,12 +12,13 @@
     "static/media/material-icons-outlined.woff2": "/Tic-Tac-Toe-React/static/media/material-icons-outlined.5520f2737f1bb3d8a011.woff2",
     "static/media/material-icons-sharp.woff2": "/Tic-Tac-Toe-React/static/media/material-icons-sharp.74f9d37f0ed879edf5af.woff2",
     "static/media/material-icons.woff2": "/Tic-Tac-Toe-React/static/media/material-icons.a3e4b8576868d394c1da.woff2",
+    "static/media/tic-tac-toe-logo.png": "/Tic-Tac-Toe-React/static/media/tic-tac-toe-logo.9b0636c74a9716a35561.png",
     "index.html": "/Tic-Tac-Toe-React/index.html",
     "main.57c257f0.css.map": "/Tic-Tac-Toe-React/static/css/main.57c257f0.css.map",
-    "main.1d3dd0c7.js.map": "/Tic-Tac-Toe-React/static/js/main.1d3dd0c7.js.map"
+    "main.92ae0cca.js.map": "/Tic-Tac-Toe-React/static/js/main.92ae0cca.js.map"
   },
   "entrypoints": [
     "static/css/main.57c257f0.css",
-    "static/js/main.1d3dd0c7.js"
+    "static/js/main.92ae0cca.js"
   ]
 }
